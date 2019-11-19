@@ -1,0 +1,4 @@
+#Mon Nov 18 21:03:43 ICT 2019
+base.0=F\:\\KULIAH\\Semester 5\\Mobile\\praktikum\\CRUD_Mysql\\CRUDMySQL\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
